@@ -1,0 +1,34 @@
+#odin-recipes {
+    color: green;
+    font-size: 22px;
+}
+
+.process{
+    color: red;   
+}
+
+.large-font{
+    font-size: x-large;
+}
+
+.funky-color{
+    color: palegoldenrod;
+}
+
+.funky-color.large-font{
+    background-color: slateblue;
+}
+
+ul > li {
+    font-weight: 800px;
+    color: red
+}
+
+h1,h3{
+    font-size: 12px;
+}
+
+p {
+    background-color: teal;
+    color: white;
+}
